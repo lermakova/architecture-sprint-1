@@ -59,3 +59,7 @@ feed-microfrontend - микрофронтенд, отвечающий за ос�
     index.js                 // Точка входа микрофронтенда
   package.json               // Зависимости и скрипты микрофронтенда
   webpack.config.js
+
+  ЗАДАНИЕ 2.
+  Ссылка на диаграмму:
+  https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D18VOrPJFTR1p15ZKZmWcdRvBGWAFDWL0M%26export%3Ddownload
